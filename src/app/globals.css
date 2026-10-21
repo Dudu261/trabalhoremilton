@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bloom-50: #f0fdf4;
+  --color-bloom-100: #dcfce7;
+  --color-bloom-500: #22c55e;
+  --color-bloom-600: #16a34a;
+  --color-bloom-700: #15803d;
+}
